@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m a PhD student in Informatics at the University of California, Irvine, advised by Daniel Epstein in the PIE Lab. My research interests lie at the intersection of human-computer interaction, data visualization, and personal informatics.
+Hi! I’m a PhD student in Informatics at the University of California, Irvine, advised by [Dr. Daniel Epstein](https://depstein.net/) in the [PIE Lab](https://depstein.net/pielab). My research interests lie at the intersection of human-computer interaction, data visualization, and personal informatics.
 
-Before joining UCI, I earned my B.S. and M.S. in Computer Science at Washington University in St. Louis (WashU). During my master’s, I worked with Dr. Alvitta Ottley to investigate how data visualization design choices influence responses to public service announcements. As an undergraduate, I worked on haptic wearables for sports applications in the SAIL Lab, led by Johnathan Hanahan.
+Before joining UCI, I earned my B.S. and M.S. in Computer Science at Washington University in St. Louis (WashU). During my master’s, I worked with (Dr. Alvitta Ottley) [https://engineering.washu.edu/faculty/Alvitta-Ottley.html] to investigate how data visualization design choices influence responses to public service announcements. As an undergraduate, I worked on haptic wearables for sports applications in the [SAIL Lab](https://samfoxschool.washu.edu/collaborations/sensory-and-ambient-interfaces-lab), led by Johnathan Hanahan.
